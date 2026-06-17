@@ -691,7 +691,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>FierceMao/paperGo-skill</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">给 Codex 一篇论文、作者代码仓库，或者一个实验文件夹来复现整篇论文。并且这个 skill 会提醒 Codex：先检查数据、代码、实验流程和结果证据，然后严格检查实验是否按照论文逻辑复现完毕。</div>
@@ -952,7 +952,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 18 Jun 2026, 05:08:17 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Jun 2026, 07:26:20 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
