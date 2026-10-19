@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            97 Commits
+                            98 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -346,14 +346,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.065606020929" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="241.065606020929" y="0" width="143.37948496678183" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="384.4450909877108" y="0" width="22.49833513037984" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="406.94342611809066" y="0" width="21.33137755030721" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="428.27480366839785" y="0" width="12.118319902856978" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="440.3931235712549" y="0" width="9.037469584560744" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="449.4305931558156" y="0" width="5.537797153366504" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="454.9683903091821" y="0" width="5.031609690817915" height="8" fill="#1d365d"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="250.97154788961674" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="250.97154788961674" y="0" width="136.89211303115482" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="387.86366092077157" y="0" width="21.480371730964837" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="409.3440326517364" y="0" width="20.366214506931872" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="429.71024715866827" y="0" width="11.570012392455762" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="441.28025955112406" y="0" width="8.628558738176096" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="449.90881828930014" y="0" width="5.287233065719876" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="455.1960513550201" y="0" width="4.803948644979988" height="8" fill="#1d365d"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -878,14 +878,14 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        6.57k
+                                        6.58k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        543
+                                        544
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1118,7 +1118,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Oct 2026, 20:25:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 20 Oct 2026, 03:05:48 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
